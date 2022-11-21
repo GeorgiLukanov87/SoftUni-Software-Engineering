@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -13,11 +14,16 @@
       <change afterPath="$PROJECT_DIR$/src/stacksAndQueues/DecimalToBinaryConverter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/stacksAndQueues/SimpleCalculator.java" afterDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="d89c2241-1a74-4e9f-9364-e5451dd4a60e" name="Changes" comment="" />
+>>>>>>> d0cefc73f4c57d0d34076188259c62cd0bdbca6b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -128,4 +134,25 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+  <component name="ProjectId" id="2HqaDKaZvhGyHNXxmnYlnG71vxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89c2241-1a74-4e9f-9364-e5451dd4a60e" name="Changes" comment="" />
+      <created>1669014948657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669014948657</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> d0cefc73f4c57d0d34076188259c62cd0bdbca6b
 </project>
